@@ -1,0 +1,6 @@
+- MariaDB 10.6.8
+ip : 127.0.0.1
+port: 43306
+database : minicampus
+id : minicampus_user
+password : a1234
